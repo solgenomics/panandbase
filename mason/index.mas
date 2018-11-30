@@ -5,6 +5,9 @@ $show_accept_dialog => undef
 </%args>
 
 <center>
+<h1>Welcome to PanandBase!</h1>
+<br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Andropogon_scoparius.jpg" width="800" />
 <br/>
 <!-- & homepage/carousel.mas & -->
 <br/>
